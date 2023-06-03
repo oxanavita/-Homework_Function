@@ -1,0 +1,15 @@
+C:\Users\Администратор\Desktop\Разработчик\Знакомство с языками программирования\Новая папка\-Homework_Function\Homework_task23\bin\Debug\net6.0\Homework_task23.exe
+C:\Users\Администратор\Desktop\Разработчик\Знакомство с языками программирования\Новая папка\-Homework_Function\Homework_task23\bin\Debug\net6.0\Homework_task23.deps.json
+C:\Users\Администратор\Desktop\Разработчик\Знакомство с языками программирования\Новая папка\-Homework_Function\Homework_task23\bin\Debug\net6.0\Homework_task23.runtimeconfig.json
+C:\Users\Администратор\Desktop\Разработчик\Знакомство с языками программирования\Новая папка\-Homework_Function\Homework_task23\bin\Debug\net6.0\Homework_task23.dll
+C:\Users\Администратор\Desktop\Разработчик\Знакомство с языками программирования\Новая папка\-Homework_Function\Homework_task23\bin\Debug\net6.0\Homework_task23.pdb
+C:\Users\Администратор\Desktop\Разработчик\Знакомство с языками программирования\Новая папка\-Homework_Function\Homework_task23\obj\Debug\net6.0\Homework_task23.csproj.AssemblyReference.cache
+C:\Users\Администратор\Desktop\Разработчик\Знакомство с языками программирования\Новая папка\-Homework_Function\Homework_task23\obj\Debug\net6.0\Homework_task23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Администратор\Desktop\Разработчик\Знакомство с языками программирования\Новая папка\-Homework_Function\Homework_task23\obj\Debug\net6.0\Homework_task23.AssemblyInfoInputs.cache
+C:\Users\Администратор\Desktop\Разработчик\Знакомство с языками программирования\Новая папка\-Homework_Function\Homework_task23\obj\Debug\net6.0\Homework_task23.AssemblyInfo.cs
+C:\Users\Администратор\Desktop\Разработчик\Знакомство с языками программирования\Новая папка\-Homework_Function\Homework_task23\obj\Debug\net6.0\Homework_task23.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Desktop\Разработчик\Знакомство с языками программирования\Новая папка\-Homework_Function\Homework_task23\obj\Debug\net6.0\Homework_task23.dll
+C:\Users\Администратор\Desktop\Разработчик\Знакомство с языками программирования\Новая папка\-Homework_Function\Homework_task23\obj\Debug\net6.0\refint\Homework_task23.dll
+C:\Users\Администратор\Desktop\Разработчик\Знакомство с языками программирования\Новая папка\-Homework_Function\Homework_task23\obj\Debug\net6.0\Homework_task23.pdb
+C:\Users\Администратор\Desktop\Разработчик\Знакомство с языками программирования\Новая папка\-Homework_Function\Homework_task23\obj\Debug\net6.0\Homework_task23.genruntimeconfig.cache
+C:\Users\Администратор\Desktop\Разработчик\Знакомство с языками программирования\Новая папка\-Homework_Function\Homework_task23\obj\Debug\net6.0\ref\Homework_task23.dll
