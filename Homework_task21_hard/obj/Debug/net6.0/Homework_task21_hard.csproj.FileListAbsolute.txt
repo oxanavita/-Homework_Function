@@ -1,0 +1,15 @@
+C:\Users\Администратор\Desktop\Разработчик\Знакомство с языками программирования\Новая папка\-Homework_Function\Homework_task21_hard\bin\Debug\net6.0\Homework_task21_hard.exe
+C:\Users\Администратор\Desktop\Разработчик\Знакомство с языками программирования\Новая папка\-Homework_Function\Homework_task21_hard\bin\Debug\net6.0\Homework_task21_hard.deps.json
+C:\Users\Администратор\Desktop\Разработчик\Знакомство с языками программирования\Новая папка\-Homework_Function\Homework_task21_hard\bin\Debug\net6.0\Homework_task21_hard.runtimeconfig.json
+C:\Users\Администратор\Desktop\Разработчик\Знакомство с языками программирования\Новая папка\-Homework_Function\Homework_task21_hard\bin\Debug\net6.0\Homework_task21_hard.dll
+C:\Users\Администратор\Desktop\Разработчик\Знакомство с языками программирования\Новая папка\-Homework_Function\Homework_task21_hard\bin\Debug\net6.0\Homework_task21_hard.pdb
+C:\Users\Администратор\Desktop\Разработчик\Знакомство с языками программирования\Новая папка\-Homework_Function\Homework_task21_hard\obj\Debug\net6.0\Homework_task21_hard.csproj.AssemblyReference.cache
+C:\Users\Администратор\Desktop\Разработчик\Знакомство с языками программирования\Новая папка\-Homework_Function\Homework_task21_hard\obj\Debug\net6.0\Homework_task21_hard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Администратор\Desktop\Разработчик\Знакомство с языками программирования\Новая папка\-Homework_Function\Homework_task21_hard\obj\Debug\net6.0\Homework_task21_hard.AssemblyInfoInputs.cache
+C:\Users\Администратор\Desktop\Разработчик\Знакомство с языками программирования\Новая папка\-Homework_Function\Homework_task21_hard\obj\Debug\net6.0\Homework_task21_hard.AssemblyInfo.cs
+C:\Users\Администратор\Desktop\Разработчик\Знакомство с языками программирования\Новая папка\-Homework_Function\Homework_task21_hard\obj\Debug\net6.0\Homework_task21_hard.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Desktop\Разработчик\Знакомство с языками программирования\Новая папка\-Homework_Function\Homework_task21_hard\obj\Debug\net6.0\Homework_task21_hard.dll
+C:\Users\Администратор\Desktop\Разработчик\Знакомство с языками программирования\Новая папка\-Homework_Function\Homework_task21_hard\obj\Debug\net6.0\refint\Homework_task21_hard.dll
+C:\Users\Администратор\Desktop\Разработчик\Знакомство с языками программирования\Новая папка\-Homework_Function\Homework_task21_hard\obj\Debug\net6.0\Homework_task21_hard.pdb
+C:\Users\Администратор\Desktop\Разработчик\Знакомство с языками программирования\Новая папка\-Homework_Function\Homework_task21_hard\obj\Debug\net6.0\Homework_task21_hard.genruntimeconfig.cache
+C:\Users\Администратор\Desktop\Разработчик\Знакомство с языками программирования\Новая папка\-Homework_Function\Homework_task21_hard\obj\Debug\net6.0\ref\Homework_task21_hard.dll
